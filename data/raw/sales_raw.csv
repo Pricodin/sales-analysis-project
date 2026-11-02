@@ -1,0 +1,1026 @@
+order_id,order_date,customer_id,region,category,product,quantity,unit_price,discount,payment_method
+10571,2025-11-24,C0298,West,Grocery,Olive Oil,2,11.56,0.1,Cash
+10146,2025-04-10,C0100,North,Home,Cushion,2,12.07,0.0,Cash
+10361,2025-01-10,C0251,North,Electronics,Speaker,3,55.07,0.2,Card
+10747,2025-01-10,C0139,North,Electronics,Smartwatch,5,153.91,0.05,Cash
+10396,2025-10-07,C0241,North,Clothing,Jeans,5,40.96,0.0,Card
+10656,2025-06-19,C0150,East,Grocery,Olive Oil,5,11.03,0.0,Wallet
+10433,2025-08-28,C0168,South,Electronics,Smartwatch,1,143.48,0.2,Card
+10466,2025-01-26,C0112,North,Home,Cushion,2,12.7,0.0,UPI
+10171,2025-12-27,C0186,North,Electronics,Smartwatch,5,162.99,0.0,Cash
+10305,2025-12-13,C0073,North,Clothing,Jacket,1,92.14,0.1,Wallet
+10403,2025-04-02,C0264,West,Grocery,Snacks Box,5,15.29,0.05,UPI
+10316,2025-12-26,C0088,North,Home,Lamp,3,24.9,0.0,Wallet
+10837,2025-10-24,C0244,West,Electronics,Smartwatch,3,159.56,0.0,Cash
+10467,2025-03-16,C0186,East,Grocery,Olive Oil,5,9.91,0.0,Wallet
+10610,2025-03-05,C0057,North,Clothing,T-Shirt,3,14.99,0.05,Card
+10821,2025-04-22,C0200,South,Grocery,Olive Oil,4,11.72,0.0,Cash
+10817,2025-09-14,C0076,South,Clothing,Jacket,1,87.25,0.0,Card
+10748,2025-09-23,C0274,North,Clothing,T-Shirt,1,15.83,0.0,UPI
+10232,2025-02-22,C0117,East,Home,Lamp,1,26.23,0.0,Cash
+10729,2025-04-01,C0192,East,Electronics,Headphones,2,75.35,0.0,Card
+10395,2025-01-07,C0197,East,Electronics,Smartwatch,4,164.87,0.1,Cash
+10793,2025-08-25,C0002,South,Electronics,Smartwatch,1,144.74,0.0,Wallet
+10786,2025-09-03,C0226,West,Home,Kettle,4,28.03,0.0,Wallet
+10777,2025-02-18,C0127,West,Grocery,Olive Oil,3,11.13,0.0,UPI
+10805,2025-09-09,C0122,North,Grocery,Coffee,2,9.38,0.0,UPI
+10024,2025-10-19,C0282,North,Electronics,Headphones,4,82.55,0.05,Card
+10925,2025-01-24,C0188,North,Home,Lamp,3,23.1,0.1,UPI
+10556,2025-05-27,C0106,South,Grocery,Snacks Box,1,14.54,0.0,UPI
+10499,2025-05-19,C0035,West,Grocery,Coffee,4,9.1,0.2,UPI
+10009,2025-07-09,C0035,,Home,Lamp,1,25.84,0.1,UPI
+10423,2025-11-21,C0068,North,Clothing,Jacket,3,94.03,0.2,Cash
+10216,2025-12-23,C0060,West,Grocery,Coffee,1,8.61,0.0,Cash
+10407,2025-09-24,C0219,West,Clothing,Jeans,1,42.39,0.2,UPI
+10164,2025-01-10,C0162,  West ,Home,Cushion,3,12.45,0.2,UPI
+10060,2025-08-25,C0010,North,Grocery,Snacks Box,4,12.94,0.0,Cash
+10168,2025-08-24,C0109,North,Home,Lamp,3,23.79,0.05,Cash
+10163,2025-04-13,C0286,East,Home,Kettle,1,30.66,0.0,Wallet
+10025,2025-05-29,C0012,West,Grocery,Coffee,3,9.1,0.1,Card
+10409,2025-06-09,C0068,South,Home,Kettle,3,32.04,0.0,UPI
+10417,2025-02-26,C0075,West,Home,Lamp,5,23.75,0.0,UPI
+10598,2025-04-13,C0154,East,Electronics,Speaker,1,65.15,0.0,UPI
+10616,2025-07-18,C0240,North,Clothing,Jeans,1,37.47,0.0,Card
+10780,2025-07-01,C0283,,Clothing,T-Shirt,3,14.53,0.05,UPI
+10794,2025-06-16,C0184,East,Clothing,Jacket,4,83.26,0.05,UPI
+10006,2025-11-20,C0189,South,Home,Kettle,4,29.62,0.1,Cash
+10540,2025-12-28,C0074,West,Home,Kettle,5,31.24,0.2,UPI
+10285,2025-12-31,C0227,North,Grocery,Coffee,4,9.63,0.0,Card
+10125,2025-12-06,C0176,West,Electronics,Smartwatch,3,138.81,0.05,UPI
+10284,2025-06-15,C0087,North,Electronics,Headphones,4,82.26,0.0,UPI
+10773,2025-05-10,C0183,East,Home,Lamp,3,24.67,0.0,Card
+10013,2025-07-05,C0028,north,Electronics,Headphones,5,83.56,0.05,Card
+10222,2025-08-17,C0110,South,Grocery,Coffee,5,8.45,0.05,Card
+10049,2025-07-13,C0285,South,Home,Kettle,3,32.5,,Cash
+10099,2025-01-02,C0187,South,Electronics,Headphones,2,85.73,0.1,Card
+10510,2025-02-10,C0030,South,Clothing,T-Shirt,1,15.71,0.0,UPI
+10752,2025-04-01,C0298,South,Grocery,Snacks Box,2,15.4,0.05,UPI
+10929,2025-01-03,C0128,East,Clothing,Jacket,5,89.16,0.2,UPI
+10984,2025-08-12,C0162,North,Clothing,Jacket,5,83.8,0.0,Card
+10113,2025-05-02,C0210,South,Clothing,Jacket,2,84.73,0.0,Card
+10446,2025-12-14,C0093,West,Home,Cushion,1,11.72,0.0,UPI
+10094,2025-12-28,C0047,East,Grocery,Snacks Box,2,15.32,0.2,Card
+10700,2025-01-01,C0142,North,Electronics,Headphones,4,82.93,0.0,Cash
+10454,2025-12-10,C0239,South,Electronics,Speaker,3,55.78,0.1,Card
+10277,2025-10-06,C0188,East,Home,Lamp,3,23.18,0.1,Card
+10619,2025-09-19,C0239,East,Clothing,Jacket,4,98.04,0.0,Wallet
+10888,2025-03-31,C0110,East,Grocery,Coffee,1,9.05,0.1,UPI
+10659,2025-12-09,C0269,North,Home,Lamp,3,23.28,0.2,UPI
+10344,2025-05-28,C0261,North,Clothing,T-Shirt,3,14.46,0.2,Card
+10865,2025-09-02,C0185,East,Clothing,T-Shirt,4,13.53,0.1,Card
+10885,2025-09-02,C0226,North,Clothing,T-Shirt,4,13.76,0.0,Card
+10933,2025-04-01,C0262,north,Clothing,Jacket,3,89.76,0.0,Wallet
+10675,2025-03-22,C0217,East,Clothing,Jacket,2,91.48,0.05,UPI
+10034,2025-12-20,C0157,West,Electronics,Smartwatch,2,154.89,0.0,UPI
+10053,2025-04-12,C0239,East,Home,Kettle,1,32.68,0.0,UPI
+10328,2025-07-22,C0240,South,Home,Kettle,3,32.57,0.0,Cash
+10914,2025-11-15,C0268,North,Home,Cushion,1,11.15,0.0,UPI
+10523,2025-07-30,C0021,West,Home,Kettle,1,32.01,0.2,Cash
+10977,2025-06-23,C0276,North,Home,Cushion,5,12.63,0.0,Card
+10530,2025-10-31,C0079,West,Electronics,Smartwatch,2,155.37,0.0,UPI
+10652,2025-11-07,C0295,South,Clothing,Jeans,5,41.24,0.0,UPI
+10859,2025-08-17,C0216,North,Clothing,Jacket,3,98.11,0.0,UPI
+10909,2025-02-12,C0041,South,Home,Kettle,3,32.77,0.0,Card
+10913,2025-06-08,C0166,East,Electronics,Headphones,5,75.84,0.2,UPI
+10326,2025-01-14,C0106,North,Grocery,Coffee,2,8.59,0.2,Card
+10660,2025-01-31,C0229,West,Electronics,Headphones,3,73.04,0.0,UPI
+10864,2025-09-01,C0294,south,Electronics,Smartwatch,1,160.07,0.0,UPI
+10459,2025-01-25,C0020,South,Electronics,Headphones,5,75.86,0.0,UPI
+10564,2025-06-02,C0033,South,Clothing,T-Shirt,3,13.89,0.2,Card
+10351,2025-03-24,C0102,North,Clothing,Jacket,3,93.67,0.2,Cash
+10957,2025-02-28,C0065,South,Clothing,Jacket,4,91.17,,UPI
+10739,2025-06-14,C0245,East,Electronics,Smartwatch,3,156.89,0.0,UPI
+10133,2025-11-11,C0272,North,Home,Kettle,1,32.19,0.0,UPI
+10979,2025-06-23,C0261,North,Home,Kettle,2,29.15,0.05,UPI
+10220,2025-01-15,C0095,North,Electronics,Speaker,1,61.35,0.0,Card
+10732,2025-07-21,C0259,West,Clothing,T-Shirt,3,16.3,0.1,UPI
+10572,2025-09-14,C0170,West,Grocery,Olive Oil,3,10.95,0.0,Cash
+10906,2025-08-25,C0097,West,Grocery,Coffee,3,9.84,0.05,Cash
+10368,2025-08-28,C0060,North,Grocery,Snacks Box,5,12.63,0.0,Card
+10725,2025-03-19,C0271,South,Electronics,Smartwatch,3,152.01,0.05,UPI
+10108,2025-04-24,C0019,East,Electronics,Headphones,3,85.99,0.05,UPI
+10856,2025-09-23,C0261,North,Grocery,Olive Oil,1,10.44,0.05,Card
+10653,2025-01-09,C0080,North,Home,Cushion,4,12.85,0.1,Card
+10259,2025-07-21,C0036,south,Home,Cushion,3,11.37,0.05,Card
+10553,2025-12-02,C0300,West,Electronics,Smartwatch,2,161.08,0.0,Card
+10712,2025-04-20,C0046,South,Clothing,T-Shirt,3,14.3,0.05,UPI
+10318,2025-07-22,C0218,,Grocery,Olive Oil,5,10.47,0.0,Cash
+10567,2025-09-05,C0105,South,Electronics,Smartwatch,4,163.57,0.0,UPI
+10153,2025-01-01,C0132,West,Electronics,Smartwatch,2,154.17,0.0,Card
+10140,2025-12-07,C0032,West,Clothing,Jacket,5,96.78,0.0,Card
+10699,2025-12-26,C0107,North,Grocery,Coffee,500,8.59,0.1,Card
+10603,2025-05-19,C0066,West,Home,Cushion,1,12.88,0.0,UPI
+10926,2025-12-05,C0220,West,Home,Kettle,1,32.87,0.0,Cash
+10262,2025-12-28,C0067,South,Clothing,Jeans,1,39.79,0.05,Card
+10657,2025-11-27,C0144,North,Grocery,Snacks Box,5,14.86,0.0,UPI
+10110,2025-02-10,C0129,  West ,Clothing,T-Shirt,4,15.19,0.1,UPI
+10026,2025-07-26,C0272,West,Electronics,Speaker,2,57.49,0.0,Card
+10057,2025-05-07,C0082,North,Grocery,Snacks Box,5,13.62,0.0,Wallet
+10046,2025-02-24,C0248,South,Home,Cushion,3,12.67,0.2,UPI
+10618,2025-10-17,C0269,North,Grocery,Snacks Box,2,12.85,0.0,Wallet
+10995,2025-06-11,C0287,East,Electronics,Smartwatch,4,160.99,0.2,UPI
+10839,2025-03-13,C0280,East,Home,Kettle,3,30.18,,Card
+10098,2025-11-28,C0222,West,Grocery,Olive Oil,4,11.6,0.0,Card
+10297,2025-11-14,C0184,East,Clothing,T-Shirt,1,15.83,0.0,UPI
+10138,2025-07-29,C0018,North,Clothing,T-Shirt,3,14.06,0.0,UPI
+10445,2025-02-05,C0184,West,Grocery,Snacks Box,3,15.36,0.0,UPI
+10695,2025-02-04,C0229,South,Clothing,Jeans,5,37.96,0.1,Cash
+10336,2025-11-16,C0091,North,Grocery,Snacks Box,3,13.08,0.0,Card
+10799,2025-06-27,C0265,South,Electronics,Headphones,4,87.59,0.1,UPI
+10043,2025-04-06,C0014,North,Grocery,Snacks Box,4,13.11,0.05,UPI
+10534,2025-06-14,C0113,South,Home,Cushion,3,12.13,0.1,Wallet
+10063,2025-02-06,C0200,West,Electronics,Headphones,5,82.4,0.0,Card
+10562,2025-02-03,C0151,South,Home,Lamp,1,24.09,0.1,Card
+10568,2025-10-29,C0298,North,Home,Lamp,3,25.21,0.05,Card
+10038,2025-06-21,C0035,West,Clothing,Jeans,4,38.99,0.0,Card
+10693,2025-03-17,C0120,East,Clothing,Jeans,1,39.29,0.0,UPI
+10253,2025-11-10,C0140,  West ,Electronics,Smartwatch,3,143.68,0.1,Card
+10350,2025-03-28,C0047,East,Electronics,Headphones,5,80.9,0.0,Card
+10938,2025-02-26,C0161,North,Electronics,Smartwatch,3,154.15,0.05,Cash
+10791,2025-05-14,C0096,West,Home,Cushion,1,13.03,0.2,UPI
+10244,2025-04-29,C0065,North,Clothing,Jeans,1,40.46,0.1,Wallet
+10472,2025-01-07,C0160,West,Electronics,Speaker,5,59.38,0.05,Cash
+10142,2025-04-12,C0137,West,Clothing,Jeans,1,37.32,0.0,UPI
+10205,2025-11-25,C0290,,Clothing,T-Shirt,5,16.39,0.05,Cash
+10974,2025-07-08,C0254,South,Electronics,Speaker,4,60.11,0.0,Card
+10740,2025-07-23,C0117,south,Electronics,Smartwatch,5,155.43,0.0,Card
+10887,2025-05-22,C0108,East,Clothing,Jacket,5,92.09,0.1,Cash
+10186,2025-11-18,C0105,South,Clothing,Jeans,3,42.06,0.1,UPI
+10796,2025-03-19,C0182,South,Home,Lamp,1,22.74,0.2,UPI
+10228,2025-09-14,C0184,West,Home,Cushion,1,11.35,0.0,Cash
+10818,2025-05-12,C0149,East,Electronics,Speaker,1,58.88,0.2,Card
+10321,2025-07-07,C0105,South,Clothing,Jeans,1,41.73,0.2,UPI
+10061,2025-06-27,C0089,South,Clothing,Jeans,3,39.67,0.2,Cash
+10596,2025-01-01,C0047,North,Home,Kettle,5,29.47,0.1,UPI
+10507,2025-07-12,C0227,North,Clothing,Jeans,1,39.98,0.2,Card
+10801,2025-01-30,C0279,South,Electronics,Smartwatch,5,137.19,0.0,Wallet
+10518,2025-06-27,C0001,North,Clothing,Jeans,5,37.08,0.2,Card
+10886,2025-12-09,C0104,West,Electronics,Headphones,4,73.28,0.1,UPI
+10509,2025-12-16,C0022,South,Electronics,Headphones,4,86.93,0.05,Card
+10419,2025-11-07,C0051,  North ,Clothing,Jeans,1,41.93,0.0,Cash
+10514,2025-02-11,C0210,east,Home,Kettle,3,27.95,0.1,UPI
+10170,2025-06-06,C0136,North,Home,Kettle,5,27.69,0.2,UPI
+10500,2025-04-19,C0285,North,Electronics,Speaker,3,60.64,0.0,Card
+10339,2025-10-16,C0097,South,Grocery,Coffee,3,9.16,0.0,Card
+10542,2025-06-23,C0204,North,Home,Cushion,1,12.01,0.0,UPI
+10109,2025-09-28,C0143,West,Grocery,Olive Oil,4,12.09,0.2,Cash
+10600,2025-10-11,C0071,South,Clothing,T-Shirt,3,15.93,0.05,Cash
+10449,2025-01-04,C0213,North,Grocery,Coffee,1,9.9,0.1,Card
+10982,2025-12-01,C0156,North,Clothing,Jacket,2,84.12,0.2,Card
+10457,2025-12-14,C0196,South,Electronics,Headphones,3,74.05,0.1,UPI
+10204,2025-04-19,C0202,,Grocery,Snacks Box,1,14.18,0.0,UPI
+10148,2025-12-20,C0027,West,Clothing,T-Shirt,3,13.88,0.0,UPI
+10570,2025-09-27,C0245,East,Electronics,Headphones,3,77.3,0.1,Cash
+10850,2025-03-21,C0040,  West ,Grocery,Olive Oil,5,10.57,0.1,Cash
+10952,2025-11-21,C0065,North,Home,Cushion,1,12.27,0.05,Card
+10541,2025-11-03,C0052,South,Grocery,Olive Oil,4,11.1,0.2,Card
+10947,2025-01-02,C0136,West,Clothing,Jeans,1,36.35,0.1,UPI
+10508,2025-10-16,C0101,North,Clothing,T-Shirt,1,16.5,0.0,UPI
+10319,2025-12-26,C0117,North,Clothing,Jacket,4,90.55,0.0,Card
+10128,2025-10-19,C0229,East,Home,Cushion,3,12.43,0.1,UPI
+10502,2025-04-02,C0150,East,Electronics,Smartwatch,1,145.16,0.0,Card
+10879,2025-11-18,C0032,,Grocery,Snacks Box,1,-10.0,0.0,Card
+10650,2025-03-12,C0290,North,Home,Kettle,3,30.62,0.1,Card
+10447,2025-12-12,C0291,East,Clothing,T-Shirt,4,13.67,0.1,Card
+10877,2025-11-01,C0030,South,Electronics,Headphones,1,73.01,,Wallet
+10761,2025-10-05,C0235,North,Grocery,Snacks Box,2,14.44,0.1,Card
+10719,2025-02-14,C0199,North,Electronics,Headphones,4,74.28,0.0,Cash
+10237,2025-03-12,C0073,south,Clothing,T-Shirt,2,14.58,0.0,Card
+10715,2025-11-22,C0094,West,Grocery,Olive Oil,3,10.92,0.0,Card
+10668,2025-10-21,C0104,East,Home,Cushion,5,11.36,0.0,UPI
+10742,2025-06-11,C0252,South,Clothing,Jacket,1,88.4,0.2,Wallet
+10585,2025-03-05,C0054,East,Electronics,Smartwatch,4,135.6,0.05,Wallet
+10480,2025-05-14,C0238,North,Home,Lamp,3,24.16,0.1,UPI
+10489,2025-04-14,C0153,South,Clothing,T-Shirt,5,16.31,0.0,Card
+10134,2025-06-01,C0242,West,Clothing,T-Shirt,4,16.44,0.05,Card
+10602,2025-05-03,C0122,south,Clothing,Jeans,3,39.17,0.0,UPI
+10015,2025-12-09,C0036,East,Clothing,Jeans,3,43.7,0.0,Wallet
+10270,2025-12-25,C0051,West,Grocery,Snacks Box,5,12.99,0.1,Card
+10159,2025-05-18,C0126,South,Home,Lamp,3,25.74,0.0,Card
+10642,2025-08-12,C0104,West,Clothing,T-Shirt,4,15.87,0.2,Cash
+10437,2025-04-09,C0130,North,Electronics,Smartwatch,2,148.15,0.05,Card
+10418,2025-08-12,C0156,West,Home,Kettle,3,27.07,0.0,UPI
+10048,2025-05-28,C0222,South,Home,Lamp,2,24.34,0.0,Card
+10765,2025-06-15,C0262,South,Electronics,Speaker,3,60.99,0.0,Cash
+10074,2025-05-08,C0277,South,Grocery,Coffee,1,9.16,0.0,Card
+10172,2025-09-24,C0136,West,Electronics,Headphones,1,86.16,0.05,UPI
+10242,2025-04-01,C0060,West,Home,Kettle,4,27.65,,Cash
+10360,2025-10-20,C0285,East,Clothing,T-Shirt,2,13.71,0.0,Cash
+10717,2025-02-03,C0275,East,Electronics,Speaker,1,59.46,0.0,Cash
+10271,2025-02-18,C0064,North,Clothing,T-Shirt,1,13.77,0.2,Card
+10846,2025-07-23,C0184,East,Home,Lamp,1,23.36,0.0,Card
+10411,2025-08-22,C0120,South,Home,Lamp,1,24.86,0.0,Cash
+10822,2025-01-28,C0210,East,Home,Cushion,4,11.52,0.0,Card
+10728,2025-12-09,C0115,East,Electronics,Smartwatch,4,142.1,,Card
+10778,2025-01-23,C0168,North,Home,Cushion,1,12.25,0.2,Card
+10377,2025-11-09,C0217,East,Home,Cushion,5,12.34,0.05,UPI
+10054,2025-08-18,C0143,South,Electronics,Headphones,3,81.04,0.1,Cash
+10578,2025-03-08,C0046,South,Clothing,T-Shirt,5,16.28,0.0,Card
+10097,2025-05-30,C0247,North,Grocery,Snacks Box,2,12.7,0.0,UPI
+10299,2025-03-22,C0248,  West ,Clothing,T-Shirt,3,16.28,0.0,Wallet
+10723,2025-05-18,C0294,south,Home,Cushion,2,11.87,0.0,Card
+10903,2025-02-17,C0192,North,Electronics,Smartwatch,1,143.68,0.0,UPI
+10694,2025-02-19,C0178,South,Grocery,Snacks Box,1,15.06,0.05,Card
+10127,2025-11-30,C0179,North,Grocery,Coffee,4,8.52,0.05,UPI
+10557,2025-11-20,C0084,East,Grocery,Coffee,2,8.91,,Cash
+10706,2025-07-19,C0292,North,Electronics,Speaker,4,56.83,0.0,Wallet
+10884,2025-12-24,C0015,North,Electronics,Headphones,5,87.26,0.1,Cash
+10491,2025-09-18,C0167,  South ,Electronics,Headphones,2,83.2,0.05,Card
+10262,2025-12-28,C0067,South,Clothing,Jeans,1,39.79,0.05,Card
+10890,2025-11-15,C0236,South,Electronics,Speaker,5,64.55,0.1,UPI
+10951,2025-03-21,C0244,East,Electronics,Smartwatch,1,154.82,0.1,Card
+10080,2025-03-03,C0072,North,Home,Kettle,4,29.23,,Wallet
+10158,2025-06-11,C0269,East,Home,Cushion,3,12.57,0.05,Wallet
+10750,2025-10-01,C0097,,Clothing,Jeans,2,37.78,0.05,UPI
+10435,2025-03-31,C0244,South,Clothing,Jacket,3,94.25,,Cash
+10357,2025-02-02,C0021,North,Grocery,Olive Oil,2,10.79,0.2,Card
+10716,2025-12-02,C0034,East,Home,Cushion,1,12.89,0.0,UPI
+10928,2025-12-30,C0111,West,Clothing,T-Shirt,5,13.56,0.0,Card
+10679,2025-08-03,C0078,North,Home,Cushion,2,12.66,0.0,UPI
+10473,2025-09-03,C0273,East,Home,Lamp,4,24.19,0.0,Card
+10734,2025-06-29,C0285,North,Clothing,Jeans,1,36.04,0.0,Card
+10746,2025-10-21,C0023,North,Home,Kettle,5,28.21,0.2,Wallet
+10367,2025-10-28,C0297,North,Electronics,Headphones,5,72.72,0.05,Cash
+10976,2025-12-20,C0126,South,Clothing,T-Shirt,4,15.41,0.1,Cash
+10966,2025-04-18,C0228,North,Clothing,T-Shirt,2,15.81,0.2,UPI
+10375,2025-12-31,C0132,North,Home,Cushion,500,12.61,0.0,UPI
+10324,2025-05-18,C0159,South,Clothing,Jacket,1,98.87,0.1,Card
+10673,2025-03-20,C0051,West,Electronics,Headphones,2,83.58,0.0,UPI
+10671,2025-10-27,C0198,,Electronics,Speaker,2,65.75,0.0,UPI
+10179,2025-11-17,C0045,South,Grocery,Coffee,3,9.65,0.1,Card
+10972,2025-04-03,C0072,West,Grocery,Snacks Box,2,14.28,0.0,UPI
+10990,2025-05-07,C0262,East,Home,Cushion,5,12.02,0.1,Wallet
+10256,2025-11-23,C0022,North,Clothing,Jacket,2,96.32,,Card
+10122,2025-05-20,C0116,North,Grocery,Coffee,1,8.15,0.05,UPI
+10531,2025-12-29,C0001,East,Home,Cushion,2,10.88,0.2,Wallet
+10781,2025-10-16,C0045,North,Electronics,Smartwatch,3,145.5,0.05,UPI
+10870,2025-11-11,C0048,East,Grocery,Coffee,1,9.74,0.1,Card
+10893,2025-11-19,C0219,North,Home,Cushion,2,12.49,0.1,UPI
+10422,2025-11-07,C0054,North,Electronics,Speaker,2,58.33,0.1,Card
+10463,2025-11-02,C0088,East,Electronics,Headphones,3,86.23,0.0,UPI
+10453,2025-11-11,C0126,West,Electronics,Speaker,4,57.89,0.2,Card
+10586,2025-02-25,C0264,North,Clothing,Jacket,3,91.22,0.1,Card
+10996,2025-11-09,C0079,north,Home,Lamp,3,22.73,0.0,Cash
+10963,2025-01-22,C0266,East,Clothing,T-Shirt,4,13.92,0.0,Cash
+10808,2025-10-29,C0177,East,Clothing,T-Shirt,5,15.91,0.0,UPI
+10866,2025-03-14,C0292,North,Home,Lamp,3,24.61,0.2,UPI
+10683,2025-12-01,C0013,West,Clothing,Jeans,3,38.52,0.0,UPI
+10577,2025-10-29,C0154,South,Electronics,Speaker,2,59.41,0.0,Card
+10147,2025-07-17,C0234,,Grocery,Coffee,2,9.03,0.05,UPI
+10362,2025-11-10,C0266,South,Clothing,Jeans,3,39.41,0.2,Card
+10355,2025-12-30,C0180,North,Home,Lamp,2,26.99,0.0,Card
+10815,2025-08-11,C0079,East,Grocery,Coffee,4,8.27,0.1,Card
+10051,2025-02-23,C0209,East,Home,Cushion,4,12.87,,UPI
+10838,2025-06-28,C0020,East,Clothing,Jeans,1,40.3,0.05,Card
+10399,2025-02-05,C0089,South,Home,Kettle,5,32.48,0.2,Wallet
+10022,2025-04-18,C0287,South,Electronics,Smartwatch,2,149.2,0.2,Card
+10707,2025-05-14,C0131,South,Electronics,Speaker,3,56.18,0.05,Wallet
+10643,2025-10-08,C0218,South,Home,Lamp,3,23.14,0.2,Cash
+10833,2025-12-21,C0141,North,Electronics,Headphones,1,72.5,0.0,Card
+10209,2025-06-01,C0050,East,Clothing,Jeans,1,41.35,0.0,UPI
+10308,2025-02-16,C0106,South,Grocery,Olive Oil,5,11.33,0.0,Card
+10142,2025-04-12,C0137,West,Clothing,Jeans,1,37.32,0.0,UPI
+10050,2025-08-02,C0230,North,Clothing,Jeans,4,42.44,0.0,Card
+10166,2025-12-10,C0287,West,Grocery,Snacks Box,5,13.28,0.2,UPI
+10635,2025-10-21,C0240,East,Home,Cushion,1,12.98,0.0,UPI
+10785,2025-06-30,C0185,North,Clothing,Jacket,5,95.86,0.0,UPI
+10081,2025-05-05,C0299,East,Clothing,T-Shirt,1,15.82,0.1,Card
+10505,2025-09-14,C0029,East,Electronics,Headphones,1,75.05,0.0,Card
+10702,2025-09-23,C0295,North,Grocery,Olive Oil,4,10.25,0.05,UPI
+10920,2025-11-18,C0184,East,Grocery,Snacks Box,2,14.11,0.1,Card
+10066,2025-11-04,C0254,West,Home,Kettle,4,32.57,0.0,Card
+10590,2025-01-17,C0229,North,Electronics,Smartwatch,4,155.57,0.0,UPI
+10911,2025-08-14,C0225,North,Clothing,T-Shirt,3,14.41,0.1,Cash
+10289,2025-09-13,C0169,South,Clothing,T-Shirt,4,15.02,0.1,Card
+10294,2025-08-09,C0205,North,Home,Lamp,1,27.02,0.1,UPI
+10547,2025-09-08,C0150,South,Clothing,Jacket,3,97.67,0.1,UPI
+10283,2025-03-03,C0010,west,Grocery,Olive Oil,5,11.15,0.0,UPI
+10810,2025-11-29,C0039,South,Clothing,T-Shirt,5,14.48,0.0,Cash
+10525,2025-04-04,C0017,East,Electronics,Smartwatch,1,143.99,0.1,Card
+10064,2025-03-21,C0005,East,Clothing,T-Shirt,5,15.83,0.2,Card
+10991,2025-04-01,C0252,North,Clothing,Jeans,2,42.5,0.1,UPI
+10264,2025-09-22,C0281,North,Electronics,Smartwatch,5,153.19,0.0,UPI
+10790,2025-01-17,C0257,West,Grocery,Snacks Box,2,12.76,0.1,UPI
+10858,2025-10-30,C0141,,Home,Kettle,4,32.1,0.05,UPI
+10775,2025-04-07,C0266,North,Grocery,Snacks Box,1,14.74,0.0,Card
+10020,2025-08-22,C0135,East,Grocery,Coffee,2,9.77,0.0,Wallet
+10420,2025-08-11,C0011,north,Grocery,Coffee,2,8.64,0.05,Card
+10783,2025-05-19,C0124,South,Grocery,Olive Oil,1,11.57,0.2,UPI
+10883,2025-11-08,C0216,,Grocery,Coffee,2,9.25,0.1,Card
+10296,2025-05-22,C0145,North,Home,Lamp,4,22.73,,UPI
+10852,2025-12-22,C0200,East,Clothing,Jeans,3,36.01,0.0,UPI
+10544,2025-03-04,C0070,West,Home,Lamp,2,25.46,0.1,Cash
+10261,2025-10-17,C0239,West,Home,Cushion,1,13.11,0.2,Card
+10389,2025-09-14,C0190,East,Grocery,Coffee,3,9.22,0.0,Wallet
+10666,2025-12-16,C0097,South,Electronics,Speaker,1,55.22,0.0,Card
+10513,2025-12-02,C0106,North,Electronics,Headphones,5,80.39,0.05,Card
+10334,2025-03-02,C0231,East,Clothing,T-Shirt,2,15.01,0.05,Cash
+10582,2025-12-13,C0059,North,Clothing,T-Shirt,5,15.07,0.2,UPI
+10482,2025-11-02,C0172,North,Home,Lamp,5,26.11,0.0,Card
+10929,2025-01-03,C0128,East,Clothing,Jacket,5,89.16,0.2,UPI
+10188,2025-03-11,C0252,South,Home,Kettle,5,30.88,0.1,Wallet
+10251,2025-12-27,C0193,South,Clothing,Jeans,4,41.52,0.0,Wallet
+10071,2025-08-21,C0284,East,Home,Lamp,2,24.01,0.05,Wallet
+10689,2025-09-13,C0292,East,Electronics,Smartwatch,4,148.78,0.0,Cash
+10384,2025-11-16,C0204,North,Grocery,Snacks Box,3,13.19,0.05,Wallet
+10658,2025-10-09,C0291,South,Grocery,Olive Oil,1,10.54,0.0,Card
+10347,2025-01-24,C0273,south,Grocery,Coffee,5,9.53,0.1,Wallet
+10613,2025-07-07,C0022,West,Electronics,Headphones,3,75.52,0.2,Wallet
+10908,2025-07-06,C0081,East,Home,Lamp,5,26.49,0.0,Card
+10950,2025-05-25,C0292,South,Electronics,Speaker,2,62.48,0.0,UPI
+10365,2025-03-02,C0076,West,Clothing,Jacket,2,87.57,0.05,Card
+10330,2025-12-30,C0134,North,Electronics,Speaker,4,55.13,0.0,Card
+10397,2025-03-20,C0251,North,Grocery,Coffee,4,8.24,0.0,Card
+10569,2025-04-09,C0130,,Electronics,Headphones,5,86.13,0.1,Card
+10825,2025-12-19,C0271,South,Electronics,Speaker,2,64.61,0.1,Cash
+10899,2025-12-17,C0139,,Clothing,T-Shirt,4,16.17,0.0,Cash
+10826,2025-12-31,C0247,East,Electronics,Headphones,1,74.33,0.0,UPI
+10930,2025-02-08,C0096,South,Clothing,Jeans,2,39.14,0.1,UPI
+10691,2025-04-19,C0299,South,Home,Lamp,5,23.04,0.0,UPI
+10408,2025-07-01,C0274,South,Electronics,Speaker,5,62.93,,Card
+10426,2025-11-11,C0066,North,Grocery,Olive Oil,5,10.26,0.0,Card
+10503,2025-09-15,C0288,  East ,Grocery,Olive Oil,3,11.21,0.1,Cash
+10452,2025-12-28,C0251,West,Grocery,Coffee,2,8.12,,Card
+10218,2025-12-24,C0132,South,Clothing,Jeans,4,43.19,0.0,Card
+10239,2025-12-14,C0071,South,Clothing,Jacket,4,94.74,0.05,Cash
+10664,2025-11-25,C0227,West,Clothing,Jacket,2,95.18,0.2,UPI
+10598,2025-04-13,C0154,East,Electronics,Speaker,1,65.15,0.0,UPI
+10192,2025-02-10,C0226,North,Grocery,Olive Oil,1,11.95,0.0,Card
+10498,2025-05-10,C0198,East,Electronics,Headphones,5,77.68,0.1,Card
+10191,2025-05-24,C0109,North,Grocery,Snacks Box,5,12.75,0.05,Card
+10484,2025-11-26,C0089,North,Electronics,Speaker,1,62.54,0.0,Card
+10504,2025-05-11,C0287,East,Electronics,Smartwatch,1,151.0,0.0,Card
+10630,2025-09-07,C0101,West,Electronics,Headphones,4,81.46,0.0,UPI
+10132,2025-10-25,C0196,East,Home,Cushion,4,12.04,0.2,Card
+10345,2025-03-21,C0077,North,Electronics,Smartwatch,2,146.58,0.05,Card
+10252,2025-10-31,C0291,South,Electronics,Headphones,1,83.68,0.0,Card
+10685,2025-05-15,C0199,North,Grocery,Olive Oil,4,11.06,0.05,Card
+10917,2025-05-05,C0047,east,Clothing,T-Shirt,2,14.99,0.0,Cash
+10263,2025-12-26,C0237,West,Grocery,Snacks Box,4,13.67,,Cash
+10070,2025-07-04,C0163,East,Grocery,Coffee,4,9.86,,Card
+10272,2025-08-22,C0026,East,Electronics,Headphones,4,85.24,0.0,UPI
+10985,2025-10-18,C0158,West,Electronics,Headphones,1,75.11,0.0,UPI
+10327,2025-02-06,C0102,North,Clothing,Jacket,2,86.9,0.0,Cash
+10115,2025-04-15,C0235,South,Clothing,Jeans,3,42.73,0.0,UPI
+10323,2025-11-13,C0225,West,Electronics,Speaker,2,55.57,0.05,UPI
+10980,2025-12-25,C0097,North,Clothing,Jacket,4,81.93,0.05,Card
+10677,2025-04-20,C0224,South,Grocery,Olive Oil,5,9.94,0.05,Wallet
+10372,2025-02-19,C0030,East,Electronics,Headphones,1,86.9,0.2,Wallet
+10624,2025-06-08,C0128,west,Electronics,Headphones,5,87.25,0.1,Card
+10720,2025-11-01,C0102,West,Home,Kettle,4,27.28,,Card
+10788,2025-08-10,C0175,South,Electronics,Smartwatch,1,151.63,0.0,Wallet
+10455,2025-11-11,C0075,West,Electronics,Headphones,5,86.62,0.0,UPI
+10667,2025-07-25,C0006,West,Grocery,Coffee,5,8.14,0.0,Card
+10868,2025-09-08,C0247,East,Home,Kettle,2,29.25,0.1,UPI
+10978,2025-07-09,C0170,  East ,Clothing,Jacket,2,90.14,0.2,Card
+10861,2025-07-10,C0125,South,Home,Lamp,3,25.37,0.0,Cash
+10278,2025-02-04,C0299,South,Grocery,Snacks Box,2,13.75,0.1,Card
+10800,2025-03-10,C0090,North,Grocery,Coffee,3,8.41,0.05,Card
+10662,2025-02-20,C0118,South,Clothing,Jeans,500,36.1,0.1,UPI
+10002,2025-04-02,C0028,North,Clothing,Jacket,3,88.98,0.2,UPI
+10229,2025-11-17,C0143,East,Clothing,T-Shirt,4,13.68,0.1,UPI
+10526,2025-05-18,C0083,South,Electronics,Speaker,4,64.33,0.0,UPI
+10945,2025-09-19,C0193,East,Electronics,Smartwatch,4,153.36,,Wallet
+10471,2025-05-31,C0074,South,Home,Lamp,5,26.91,0.0,Card
+10873,2025-08-21,C0272,East,Home,Cushion,2,11.2,0.0,Cash
+10199,2025-02-08,C0104,North,Home,Kettle,3,29.27,0.1,Card
+10371,2025-07-15,C0126,North,Home,Cushion,2,12.09,0.0,UPI
+10875,2025-08-08,C0231,North,Electronics,Speaker,2,64.7,0.05,Cash
+10669,2025-01-28,C0250,East,Grocery,Snacks Box,3,13.11,0.0,Cash
+10065,2025-11-12,C0016,,Electronics,Headphones,2,81.69,0.2,Card
+10485,2025-05-14,C0038,North,Home,Kettle,5,28.12,0.0,Wallet
+10040,2025-05-05,C0278,,Clothing,T-Shirt,1,15.97,0.05,Card
+10756,2025-10-28,C0036,West,Grocery,Coffee,4,9.57,0.0,Card
+10493,2025-01-26,C0126,North,Home,Kettle,5,27.02,,Card
+10442,2025-03-29,C0036,South,Clothing,T-Shirt,2,13.86,0.0,Card
+10515,2025-01-14,C0233,North,Grocery,Olive Oil,5,10.76,0.0,Card
+10964,2025-01-15,C0051,south,Electronics,Headphones,1,84.82,0.0,UPI
+10829,2025-06-05,C0280,West,Electronics,Headphones,1,80.99,0.0,UPI
+10273,2025-06-29,C0157,South,Grocery,Snacks Box,1,14.6,0.0,Card
+10708,2025-10-09,C0224,West,Home,Kettle,2,30.91,,Card
+10641,2025-07-04,C0122,West,Electronics,Speaker,2,60.44,0.1,Wallet
+10472,2025-01-07,C0160,West,Electronics,Speaker,5,59.38,0.05,Cash
+10771,2025-03-21,C0062,North,Electronics,Headphones,5,83.62,0.05,UPI
+10177,2025-03-03,C0264,South,Grocery,Snacks Box,2,12.87,0.0,Card
+10300,2025-11-02,C0215,  West ,Home,Kettle,5,27.07,0.0,UPI
+10037,2025-08-02,C0240,East,Electronics,Headphones,5,75.72,0.2,UPI
+10601,2025-11-16,C0265,South,Home,Cushion,1,12.11,0.0,Cash
+10202,2025-10-01,C0275,North,Grocery,Coffee,3,8.17,0.0,Cash
+10236,2025-11-07,C0175,West,Electronics,Headphones,4,79.7,0.0,Cash
+10149,2025-01-13,C0063,,Electronics,Speaker,1,57.04,0.2,Card
+10217,2025-12-17,C0293,North,Home,Lamp,5,26.71,0.1,UPI
+10848,2025-02-14,C0062,North,Electronics,Smartwatch,5,144.81,0.0,Card
+10733,2025-08-17,C0082,North,Home,Kettle,3,30.95,0.1,UPI
+10558,2025-03-18,C0061,West,Electronics,Speaker,1,61.71,0.05,UPI
+10621,2025-11-17,C0255,South,Clothing,Jacket,3,87.82,0.1,Card
+10854,2025-03-12,C0069,West,Grocery,Coffee,4,8.73,0.2,Card
+10302,2025-01-31,C0211,West,Home,Lamp,4,26.2,0.05,UPI
+10872,2025-09-05,C0175,South,Clothing,Jeans,5,42.66,0.05,UPI
+10932,2025-09-13,C0264,North,Electronics,Speaker,3,64.64,0.2,Card
+10681,2025-01-12,C0042,South,Clothing,Jeans,5,37.89,,Cash
+10961,2025-06-02,C0290,West,Electronics,Smartwatch,1,153.49,0.0,UPI
+10388,2025-12-09,C0131,West,Grocery,Snacks Box,1,14.35,0.0,Cash
+10431,2025-02-17,C0019,North,Grocery,Snacks Box,4,14.27,0.0,UPI
+10387,2025-08-09,C0044,North,Electronics,Smartwatch,2,141.8,0.0,UPI
+10905,2025-01-17,C0288,North,Electronics,Speaker,3,59.91,0.0,Cash
+10390,2025-06-01,C0099,South,Grocery,Snacks Box,1,14.79,0.0,UPI
+10956,2025-08-03,C0105,North,Grocery,Coffee,4,8.38,0.05,UPI
+10352,2025-12-24,C0050,East,Electronics,Headphones,4,76.68,0.0,Card
+10193,2025-11-16,C0256,south,Home,Lamp,1,26.27,0.2,Card
+10235,2025-05-04,C0045,North,Clothing,Jacket,4,85.92,0.05,UPI
+10451,2025-09-25,C0169,South,Home,Kettle,4,32.29,0.0,Card
+10849,2025-04-11,C0172,south,Electronics,Smartwatch,3,148.31,0.1,Card
+10055,2025-12-14,C0148,North,Grocery,Snacks Box,4,14.28,0.0,Card
+10696,2025-10-18,C0291,North,Clothing,Jacket,4,91.04,0.2,Cash
+10096,2025-11-10,C0195,East,Clothing,Jacket,1,88.41,0.05,Wallet
+10141,2025-08-11,C0042,North,Grocery,Snacks Box,5,13.45,0.2,UPI
+10709,2025-05-02,C0292,East,Electronics,Headphones,4,85.83,0.0,Card
+10876,2025-02-19,C0176,West,Electronics,Speaker,5,57.49,0.05,Cash
+10552,2025-11-12,C0019,West,Home,Kettle,2,28.76,0.0,Card
+10921,2025-07-14,C0114,North,Clothing,Jeans,3,43.6,0.1,Wallet
+10120,2025-07-02,C0291,West,Clothing,T-Shirt,4,16.26,0.0,Cash
+10609,2025-02-22,C0119,East,Grocery,Coffee,5,8.67,0.0,Card
+10820,2025-04-10,C0135,South,Home,Kettle,1,31.46,0.0,UPI
+10062,2025-12-01,C0206,West,Home,Lamp,2,27.49,0.0,Wallet
+10770,2025-09-19,C0253,South,Home,Cushion,4,12.66,0.0,UPI
+10465,2025-02-26,C0172,North,Home,Lamp,5,24.07,0.2,UPI
+10414,2025-12-28,C0149,North,Clothing,Jeans,5,43.01,0.1,Card
+10003,2025-12-24,C0228,west,Grocery,Coffee,4,8.74,0.1,Card
+10058,2025-10-21,C0053,West,Home,Cushion,3,11.72,0.0,UPI
+10223,2025-11-27,C0241,West,Home,Cushion,1,12.28,0.0,Card
+10627,2025-03-04,C0195,South,Electronics,Smartwatch,1,152.22,0.0,Card
+10101,2025-06-09,C0090,North,Clothing,Jacket,3,91.63,0.2,Card
+10731,2025-12-12,C0110,South,Electronics,Headphones,3,79.72,0.0,Wallet
+10221,2025-12-26,C0155,north,Grocery,Snacks Box,3,15.22,0.0,Card
+10478,2025-12-16,C0085,North,Home,Cushion,2,11.25,0.0,UPI
+10004,2025-03-03,C0224,East,Clothing,Jeans,4,36.35,0.0,Card
+10052,2025-02-25,C0288,West,Home,Lamp,5,27.18,0.0,Cash
+10017,2025-08-21,C0061,North,Grocery,Olive Oil,3,10.57,0.2,Cash
+10755,2025-02-18,C0205,South,Grocery,Coffee,1,8.49,0.0,Wallet
+10924,2025-11-07,C0029,East,Home,Cushion,5,12.85,0.2,Card
+10306,2025-09-28,C0258,North,Home,Lamp,2,22.94,0.0,Cash
+10674,2025-07-09,C0032,west,Grocery,Coffee,5,8.51,0.05,Card
+10155,2025-09-23,C0218,East,Grocery,Snacks Box,1,13.89,0.0,Wallet
+10492,2025-11-02,C0093,West,Home,Lamp,5,27.16,0.1,Wallet
+10744,2025-02-19,C0247,West,Grocery,Coffee,1,8.12,0.0,Card
+10651,2025-01-27,C0220,North,Grocery,Snacks Box,3,14.76,0.0,Cash
+10248,2025-11-20,C0253,North,Home,Kettle,2,29.27,0.05,Wallet
+10249,2025-07-28,C0012,West,Home,Kettle,4,28.25,0.0,Card
+10358,2025-07-19,C0250,South,Electronics,Headphones,3,81.18,0.0,Card
+10487,2025-01-31,C0029,East,Home,Lamp,2,23.44,0.2,UPI
+10430,2025-05-22,C0161,East,Electronics,Smartwatch,4,153.8,0.0,UPI
+10441,2025-01-15,C0168,East,Electronics,Smartwatch,5,162.92,0.0,Card
+10828,2025-04-06,C0017,North,Grocery,Olive Oil,4,10.32,0.0,UPI
+10862,2025-08-12,C0021,East,Clothing,Jacket,1,90.87,0.05,UPI
+10030,2025-11-30,C0014,south,Home,Lamp,1,25.5,0.2,Wallet
+10281,2025-07-18,C0145,South,Electronics,Speaker,5,65.06,0.2,UPI
+10686,2025-06-16,C0108,West,Home,Kettle,2,29.53,0.05,Card
+10983,2025-05-09,C0041,North,Grocery,Snacks Box,2,14.35,0.05,Cash
+10117,2025-02-25,C0046,West,Clothing,T-Shirt,1,13.64,0.0,Card
+10737,2025-12-20,C0006,south,Home,Kettle,2,28.65,0.0,Card
+10116,2025-05-13,C0075,North,Grocery,Olive Oil,5,10.4,0.0,UPI
+10528,2025-01-31,C0046,South,Grocery,Olive Oil,3,10.45,0.0,Card
+10676,2025-03-14,C0133,North,Electronics,Smartwatch,4,148.17,0.2,Cash
+10291,2025-05-08,C0167,North,Electronics,Speaker,2,54.25,0.05,Card
+10027,2025-12-04,C0131,East,Electronics,Headphones,5,87.88,0.2,Cash
+10381,2025-12-17,C0058,South,Electronics,Smartwatch,5,146.2,0.0,Card
+10307,2025-11-23,C0086,South,Clothing,T-Shirt,2,14.51,0.2,UPI
+10551,2025-12-10,C0121,West,Grocery,Snacks Box,5,14.62,0.0,UPI
+10680,2025-09-04,C0072,East,Clothing,T-Shirt,2,14.04,0.0,Card
+10200,2025-10-31,C0160,West,Grocery,Coffee,500,9.11,0.2,UPI
+10580,2025-10-01,C0199,East,Home,Kettle,5,32.77,0.0,UPI
+10385,2025-01-22,C0249,West,Home,Cushion,4,11.47,0.2,UPI
+10724,2025-03-09,C0023,East,Grocery,Coffee,2,8.87,0.0,UPI
+10672,2025-04-25,C0264,South,Clothing,T-Shirt,1,14.8,0.0,UPI
+10600,2025-10-11,C0071,South,Clothing,T-Shirt,3,15.93,0.05,Cash
+10807,2025-02-11,C0153,west,Clothing,T-Shirt,1,14.1,0.0,Card
+10757,2025-12-01,C0049,,Clothing,Jeans,1,38.21,0.0,Card
+10314,2025-12-14,C0295,North,Grocery,Olive Oil,5,11.29,0.0,UPI
+10511,2025-08-31,C0213,West,Electronics,Speaker,5,63.62,0.0,Cash
+10280,2025-08-01,C0193,East,Home,Kettle,4,29.95,,UPI
+10967,2025-05-15,C0152,West,Grocery,Olive Oil,3,12.03,0.1,Wallet
+10768,2025-08-28,C0096,North,Clothing,Jacket,2,87.4,0.2,Card
+10353,2025-01-18,C0012,North,Clothing,Jacket,5,94.11,0.1,Wallet
+10655,2025-12-21,C0287,West,Electronics,Smartwatch,3,143.37,0.0,Cash
+10207,2025-06-17,C0128,North,Grocery,Olive Oil,5,10.71,0.1,Cash
+10379,2025-11-18,C0067,East,Electronics,Headphones,5,83.74,0.05,Card
+10776,2025-04-03,C0243,,Clothing,T-Shirt,5,16.5,0.05,Card
+10412,2025-11-11,C0175,North,Home,Kettle,5,29.05,0.0,Card
+10804,2025-03-19,C0028,West,Grocery,Coffee,2,8.11,0.0,UPI
+10023,2025-02-26,C0248,East,Clothing,Jeans,2,43.17,0.0,UPI
+10340,2025-11-30,C0078,west,Home,Kettle,3,29.73,0.2,Card
+10705,2025-11-04,C0295,South,Grocery,Olive Oil,3,11.38,0.2,UPI
+10649,2025-01-06,C0206,South,Electronics,Headphones,3,74.91,0.0,Card
+10154,2025-03-03,C0237,South,Clothing,Jeans,4,37.03,0.0,Card
+10874,2025-08-23,C0257,North,Home,Cushion,3,11.22,0.1,Card
+10565,2025-12-01,C0104,,Home,Lamp,5,26.45,0.05,Card
+10867,2025-01-20,C0079,East,Electronics,Smartwatch,1,156.34,0.0,Cash
+10798,2025-08-18,C0224,East,Home,Cushion,4,12.95,0.1,UPI
+10322,2025-05-18,C0223,South,Clothing,T-Shirt,1,16.2,0.05,Card
+10611,2025-01-31,C0157,North,Grocery,Olive Oil,5,10.33,0.0,Card
+10594,2025-05-19,C0067,South,Grocery,Coffee,5,9.32,0.0,Card
+10082,2025-03-25,C0227,North,Grocery,Snacks Box,3,12.63,0.1,Cash
+10591,2025-12-21,C0196,South,Home,Cushion,2,12.26,0.1,UPI
+10464,2025-05-11,C0131,South,Grocery,Olive Oil,2,10.1,0.0,UPI
+10743,2025-10-02,C0179,East,Grocery,Coffee,1,8.64,,Cash
+10333,2025-06-21,C0082,South,Clothing,T-Shirt,4,16.18,0.05,UPI
+10010,2025-05-03,C0181,South,Home,Cushion,1,12.14,0.2,UPI
+10470,2025-03-02,C0254,North,Grocery,Snacks Box,2,14.33,0.0,UPI
+10032,2025-10-06,C0230,North,Grocery,Coffee,3,9.01,0.2,UPI
+10958,2025-06-24,C0139,South,Electronics,Headphones,5,79.24,,Card
+10941,2025-01-01,C0040,North,Grocery,Olive Oil,3,11.8,0.0,UPI
+10382,2025-06-03,C0251,West,Electronics,Smartwatch,4,159.47,0.05,UPI
+10623,2025-08-08,C0285,South,Clothing,Jeans,4,41.35,0.1,Cash
+10563,2025-12-04,C0064,East,Grocery,Coffee,2,9.74,0.0,UPI
+10915,2025-05-20,C0111,South,Electronics,Smartwatch,3,154.56,0.0,Card
+10937,2025-09-01,C0035,West,Home,Lamp,4,25.58,0.0,Card
+10378,2025-07-31,C0293,East,Grocery,Coffee,5,8.59,0.0,UPI
+10089,2025-08-02,C0103,North,Home,Cushion,1,12.0,0.0,Wallet
+10213,2025-05-02,C0013,West,Grocery,Snacks Box,2,14.58,0.0,Wallet
+10969,2025-07-20,C0290,South,Home,Cushion,4,11.29,0.0,UPI
+10133,2025-11-11,C0272,North,Home,Kettle,1,32.19,0.0,UPI
+10346,2025-11-04,C0006,east,Electronics,Smartwatch,2,151.02,0.0,UPI
+10007,2025-10-02,C0117,North,Grocery,Olive Oil,5,10.53,0.0,Card
+10626,2025-09-17,C0181,North,Grocery,Coffee,3,8.81,0.0,UPI
+10320,2025-10-01,C0139,East,Clothing,Jeans,1,37.6,0.0,Card
+10792,2025-09-22,C0044,South,Home,Kettle,1,28.66,0.05,Card
+10187,2025-09-29,C0095,North,Clothing,T-Shirt,2,15.19,0.0,Card
+10304,2025-10-22,C0030,West,Home,Cushion,2,13.06,0.05,Cash
+10031,2025-01-06,C0151,North,Grocery,Snacks Box,2,13.0,0.0,UPI
+10620,2025-09-15,C0064,North,Clothing,Jeans,3,38.84,0.0,Card
+10240,2025-12-04,C0250,East,Home,Kettle,5,30.68,0.0,Card
+10736,2025-05-09,C0214,North,Clothing,Jacket,4,96.62,0.0,UPI
+10174,2025-10-20,C0036,South,Electronics,Smartwatch,5,137.86,0.0,UPI
+10245,2025-10-01,C0121,North,Electronics,Speaker,4,64.01,0.0,Cash
+10056,2025-11-05,C0063,South,Clothing,Jeans,4,39.35,0.1,Cash
+10760,2025-08-28,C0189,South,Clothing,Jacket,5,81.96,0.05,UPI
+10145,2025-04-09,C0125,East,Grocery,Snacks Box,1,13.86,0.2,Cash
+10090,2025-05-17,C0095,North,Home,Cushion,1,11.23,0.05,UPI
+10392,2025-08-07,C0073,East,Home,Lamp,3,23.97,0.1,Card
+10310,2025-01-13,C0206,South,Home,Cushion,4,11.47,0.0,Card
+10359,2025-11-28,C0129,South,Grocery,Olive Oil,3,11.42,0.05,Card
+10093,2025-02-15,C0235,East,Home,Cushion,5,12.88,0.0,UPI
+10701,2025-10-10,C0218,West,Home,Cushion,5,10.86,0.0,Card
+10782,2025-06-16,C0156,South,Clothing,T-Shirt,4,16.3,0.1,Card
+10376,2025-01-20,C0145,East,Clothing,Jeans,3,40.57,0.1,UPI
+10243,2025-06-11,C0267,North,Grocery,Coffee,5,8.67,0.05,Wallet
+10834,2025-01-03,C0277,East,Grocery,Snacks Box,5,14.8,0.2,Cash
+10087,2025-05-28,C0229,South,Home,Kettle,5,27.35,0.0,Cash
+10214,2025-01-25,C0002,North,Grocery,Olive Oil,5,10.16,0.1,Wallet
+10993,2025-10-18,C0225,South,Clothing,Jacket,1,89.5,0.1,Card
+10173,2025-10-03,C0166,East,Electronics,Smartwatch,1,150.02,0.2,Wallet
+10425,2025-12-18,C0095,South,Grocery,Snacks Box,1,12.8,0.1,Cash
+10918,2025-11-11,C0090,North,Electronics,Headphones,2,81.93,0.1,Wallet
+10118,2025-09-07,C0143,East,Grocery,Coffee,2,8.3,0.0,Cash
+10119,2025-09-06,C0002,North,Home,Cushion,5,12.85,,Cash
+10682,2025-08-16,C0242,North,Electronics,Smartwatch,5,152.28,0.0,Card
+10000,2025-11-26,C0026,North,Electronics,Speaker,4,59.27,0.05,Cash
+10394,2025-07-27,C0204,South,Home,Kettle,4,31.48,0.0,Card
+10401,2025-05-22,C0070,West,Electronics,Speaker,5,61.99,0.1,UPI
+10404,2025-04-26,C0201,North,Home,Cushion,2,11.62,0.05,Cash
+10625,2025-11-09,C0176,North,Home,Cushion,4,11.09,0.1,Wallet
+10632,2025-05-10,C0186,East,Home,Kettle,5,30.11,0.05,Cash
+10162,2025-09-28,C0275,North,Grocery,Coffee,5,8.61,0.2,UPI
+10114,2025-01-01,C0034,South,Clothing,T-Shirt,3,16.09,0.0,UPI
+10150,2025-06-10,C0159,North,Grocery,Snacks Box,3,13.9,0.2,Cash
+10595,2025-05-29,C0187,North,Home,Lamp,1,24.84,0.0,Card
+10587,2025-10-03,C0129,West,Clothing,Jacket,4,86.04,0.1,UPI
+10749,2025-04-09,C0191,East,Electronics,Speaker,2,59.2,0.05,UPI
+10368,2025-08-28,C0060,North,Grocery,Snacks Box,5,12.63,0.0,Card
+10543,2025-07-10,C0015,North,Grocery,Snacks Box,4,12.65,0.1,Cash
+10477,2025-11-01,C0059,East,Electronics,Headphones,1,87.35,0.1,Card
+10532,2025-07-01,C0142,North,Electronics,Headphones,4,84.67,0.0,Cash
+10999,2025-06-27,C0255,South,Grocery,Coffee,1,8.12,0.0,UPI
+10597,2025-07-06,C0275,West,Clothing,Jeans,2,41.7,0.0,Wallet
+10970,2025-11-24,C0021,East,Grocery,Coffee,2,9.35,0.2,Cash
+10258,2025-07-31,C0296,West,Grocery,Snacks Box,4,15.05,0.0,Card
+10857,2025-11-27,C0006,South,Grocery,Olive Oil,1,11.0,0.0,Wallet
+10135,2025-06-14,C0183,East,Clothing,Jeans,3,40.65,0.2,UPI
+10936,2025-07-17,C0033,South,Grocery,Coffee,2,9.54,0.0,Card
+10644,2025-01-28,C0285,North,Home,Lamp,3,23.17,0.0,UPI
+10592,2025-06-20,C0152,South,Home,Lamp,2,23.92,0.2,UPI
+10806,2025-04-28,C0033,North,Home,Cushion,2,11.13,0.2,UPI
+10501,2025-01-18,C0093,North,Grocery,Olive Oil,1,11.14,0.1,Card
+10538,2025-11-25,C0271,East,Home,Kettle,3,29.35,0.0,UPI
+10663,2025-04-14,C0157,West,Grocery,Coffee,2,9.54,0.0,UPI
+10581,2025-12-22,C0024,,Clothing,Jeans,3,42.06,0.2,Wallet
+10343,2025-02-07,C0102,West,Electronics,Headphones,5,82.49,0.1,Cash
+10684,2025-08-11,C0221,West,Home,Cushion,1,11.97,0.05,UPI
+10922,2025-06-01,C0230,West,Clothing,Jacket,3,91.3,0.0,Cash
+10293,2025-01-29,C0134,West,Electronics,Headphones,4,79.09,0.2,Card
+10364,2025-05-28,C0105,South,Grocery,Coffee,3,8.85,0.0,Card
+10814,2025-09-26,C0283,East,Home,Cushion,4,12.87,0.0,Card
+10014,2025-06-03,C0072,East,Clothing,Jacket,2,89.03,0.05,Card
+10086,2025-04-08,C0253,East,Home,Cushion,5,11.0,0.05,UPI
+10370,2025-04-30,C0262,West,Electronics,Headphones,2,80.89,0.05,Wallet
+10165,2025-05-10,C0281,South,Home,Lamp,4,26.77,0.0,UPI
+10892,2025-06-16,C0240,East,Home,Cushion,4,11.75,0.1,UPI
+10335,2025-11-07,C0078,West,Clothing,Jacket,3,98.46,0.2,Card
+10059,2025-10-16,C0113,West,Grocery,Coffee,3,9.88,0.0,Cash
+10354,2025-07-15,C0262,South,Clothing,Jacket,3,89.49,0.1,UPI
+10424,2025-09-28,C0171,East,Grocery,Olive Oil,3,11.44,0.1,Card
+10292,2025-08-22,C0242,West,Home,Lamp,1,22.77,0.0,UPI
+10041,2025-01-09,C0047,North,Electronics,Smartwatch,1,138.46,0.0,Card
+10329,2025-06-24,C0254,East,Grocery,Olive Oil,4,11.87,0.1,Card
+10614,2025-05-10,C0003,North,Home,Cushion,2,10.99,0.1,UPI
+10429,2025-01-31,C0116,East,Home,Cushion,2,12.81,0.2,Cash
+10079,2025-05-07,C0101,East,Electronics,Smartwatch,5,140.19,0.0,Cash
+10028,2025-11-04,C0101,South,Electronics,Smartwatch,4,144.48,0.2,UPI
+10254,2025-02-24,C0008,South,Home,Lamp,5,23.77,0.2,Cash
+10758,2025-04-26,C0159,East,Home,Cushion,4,12.52,0.05,Card
+10458,2025-11-30,C0053,North,Home,Kettle,4,31.3,0.1,UPI
+10383,2025-01-21,C0288,West,Electronics,Speaker,5,58.83,0.2,UPI
+10313,2025-01-09,C0235,East,Clothing,T-Shirt,2,16.33,0.1,Card
+10084,2025-10-31,C0013,South,Grocery,Snacks Box,3,12.82,0.2,Card
+10574,2025-08-21,C0272,West,Electronics,Speaker,1,60.88,0.0,UPI
+10136,2025-06-08,C0231,North,Electronics,Headphones,1,78.04,0.0,Card
+10111,2025-02-11,C0011,North,Home,Lamp,1,27.3,0.0,Card
+10194,2025-12-19,C0026,West,Electronics,Smartwatch,3,144.72,0.2,Wallet
+10178,2025-11-05,C0030,,Electronics,Headphones,1,78.98,0.1,Card
+10896,2025-10-03,C0219,South,Clothing,Jeans,2,37.27,0.05,UPI
+10496,2025-09-29,C0140,East,Electronics,Headphones,1,84.93,0.0,UPI
+10129,2025-11-10,C0155,South,Grocery,Olive Oil,3,9.93,0.0,Card
+10337,2025-01-24,C0170,East,Grocery,Snacks Box,1,14.62,0.1,Card
+10608,2025-01-28,C0014,west,Home,Kettle,3,31.29,0.0,Card
+10124,2025-07-23,C0037,  North ,Home,Kettle,5,28.04,0.2,Wallet
+10971,2025-10-05,C0286,South,Electronics,Headphones,1,74.44,0.05,UPI
+10226,2025-03-17,C0247,South,Grocery,Coffee,1,9.79,0.05,UPI
+10268,2025-10-13,C0033,East,Clothing,T-Shirt,4,16.38,,UPI
+10988,2025-02-02,C0275,North,Home,Kettle,1,31.7,0.0,UPI
+10968,2025-02-22,C0034,West,Grocery,Olive Oil,4,12.08,0.2,Card
+10103,2025-12-31,C0042,East,Clothing,Jeans,4,40.6,0.05,Card
+10593,2025-06-25,C0066,east,Clothing,T-Shirt,3,15.91,0.0,UPI
+10863,2025-04-26,C0015,east,Clothing,Jeans,3,41.69,0.05,Card
+10795,2025-10-15,C0038,East,Clothing,T-Shirt,4,14.5,0.2,Card
+10227,2025-07-15,C0132,South,Home,Kettle,5,32.97,0.0,Card
+10894,2025-10-15,C0148,East,Grocery,Coffee,3,9.32,0.0,Card
+10301,2025-09-04,C0024,East,Grocery,Olive Oil,3,11.77,0.0,UPI
+10275,2025-11-03,C0257,South,Clothing,Jeans,4,36.62,0.0,UPI
+10126,2025-08-27,C0040,East,Electronics,Headphones,2,72.81,0.2,Card
+10405,2025-06-22,C0190,south,Clothing,Jeans,4,40.17,0.0,Cash
+10900,2025-01-10,C0289,North,Home,Kettle,2,32.18,0.05,UPI
+10036,2025-07-07,C0191,North,Electronics,Speaker,4,63.65,0.05,Cash
+10139,2025-07-18,C0288,North,Electronics,Headphones,2,82.44,0.0,Card
+10303,2025-10-22,C0094,South,Clothing,Jeans,5,43.76,0.0,Card
+10267,2025-08-02,C0266,East,Grocery,Olive Oil,4,10.38,0.0,Card
+10533,2025-05-01,C0238,South,Clothing,T-Shirt,4,15.36,0.2,UPI
+10545,2025-07-09,C0068,South,Home,Cushion,5,11.59,0.2,Card
+10212,2025-06-23,C0110,South,Grocery,Snacks Box,1,13.8,0.0,Wallet
+10468,2025-10-29,C0064,South,Home,Kettle,5,29.68,0.0,Wallet
+10198,2025-08-17,C0116,East,Grocery,Coffee,3,8.91,0.0,Card
+10527,2025-12-12,C0026,West,Electronics,Speaker,4,64.54,0.05,UPI
+10802,2025-06-30,C0073,North,Grocery,Olive Oil,2,10.79,0.0,Card
+10241,2025-07-18,C0005,South,Clothing,Jacket,3,89.59,0.05,UPI
+10342,2025-04-12,C0144,North,Clothing,T-Shirt,4,16.2,0.05,UPI
+10549,2025-02-26,C0093,South,Clothing,T-Shirt,5,15.79,0.0,Card
+10386,2025-06-18,C0262,North,Grocery,Snacks Box,1,13.9,0.1,Cash
+10869,2025-06-28,C0055,east,Electronics,Headphones,1,86.13,0.0,Card
+10206,2025-11-14,C0152,East,Home,Cushion,3,11.04,0.05,UPI
+10295,2025-07-18,C0180,South,Home,Lamp,5,27.27,0.0,Card
+10779,2025-09-08,C0277,South,Clothing,T-Shirt,2,15.04,0.0,UPI
+10073,2025-09-03,C0092,East,Electronics,Headphones,5,78.85,0.0,UPI
+10754,2025-12-01,C0043,East,Home,Lamp,4,23.4,0.0,Card
+10104,2025-02-23,C0031,North,Clothing,Jacket,2,89.94,0.0,Card
+10968,2025-02-22,C0034,West,Grocery,Olive Oil,4,12.08,0.2,Card
+10718,2025-04-20,C0206,  South ,Grocery,Snacks Box,1,15.05,0.2,Card
+10975,2025-11-30,C0046,West,Clothing,Jeans,1,41.71,0.2,UPI
+10016,2025-06-30,C0222,North,Clothing,Jacket,2,93.9,0.0,UPI
+10439,2025-09-23,C0228,South,Grocery,Snacks Box,1,15.23,0.1,UPI
+10091,2025-01-03,C0093,North,Grocery,Snacks Box,1,14.28,0.1,UPI
+10088,2025-11-24,C0111,West,Clothing,Jeans,3,42.15,0.0,Cash
+10450,2025-08-25,C0143,East,Electronics,Smartwatch,2,155.52,0.05,Card
+10102,2025-10-16,C0128,West,Home,Lamp,5,24.21,0.05,UPI
+10238,2025-04-20,C0110,South,Grocery,Olive Oil,1,10.59,0.1,Card
+10318,2025-07-22,C0218,,Grocery,Olive Oil,5,10.47,0.0,Cash
+10246,2025-02-26,C0090,,Grocery,Coffee,4,9.74,0.0,Card
+10722,2025-09-26,C0126,South,Grocery,Olive Oil,3,10.78,0.0,Cash
+10157,2025-08-02,C0225,East,Clothing,Jacket,1,98.85,0.0,Wallet
+10479,2025-03-06,C0136,East,Home,Lamp,5,25.66,0.0,Card
+10645,2025-07-28,C0251,North,Home,Cushion,1,11.47,0.2,Card
+10973,2025-08-21,C0056,South,Electronics,Smartwatch,1,160.4,0.0,UPI
+10831,2025-08-10,C0116,East,Home,Cushion,3,11.15,0.0,Card
+10018,2025-09-09,C0043,East,Clothing,Jacket,3,88.78,0.05,UPI
+10714,2025-01-16,C0105,West,Electronics,Headphones,2,79.58,0.1,Card
+10121,2025-08-30,C0096,North,Clothing,T-Shirt,3,15.9,0.0,Card
+10845,2025-04-11,C0098,West,Home,Kettle,2,32.16,0.0,Card
+10713,2025-10-05,C0016,North,Clothing,Jacket,5,87.13,0.0,Card
+10274,2025-03-03,C0227,West,Clothing,Jacket,2,85.69,0.1,UPI
+10433,2025-08-28,C0168,South,Electronics,Smartwatch,1,143.48,0.2,Card
+10907,2025-08-01,C0035,North,Electronics,Headphones,2,85.45,,Card
+10311,2025-07-03,C0005,South,Home,Cushion,4,11.4,0.1,Card
+10767,2025-12-11,C0190,North,Clothing,Jeans,3,37.52,0.0,Cash
+10912,2025-12-30,C0193,South,Home,Kettle,2,27.28,0.05,Card
+10546,2025-08-11,C0085,South,Electronics,Speaker,2,64.36,0.0,Cash
+10181,2025-03-25,C0111,East,Grocery,Coffee,5,8.49,0.0,Card
+10184,2025-04-27,C0076,East,Home,Lamp,4,25.78,0.1,Cash
+10406,2025-11-01,C0298,  West ,Clothing,T-Shirt,3,15.65,0.0,Cash
+10606,2025-03-16,C0246,East,Grocery,Coffee,1,8.23,0.1,Cash
+10692,2025-01-08,C0202,East,Electronics,Speaker,3,63.25,0.1,Card
+10520,2025-12-12,C0200,,Electronics,Headphones,3,85.86,0.05,UPI
+10380,2025-10-18,C0111,South,Home,Cushion,3,12.87,0.0,Card
+10410,2025-01-29,C0222,  South ,Home,Kettle,3,32.37,0.0,UPI
+10634,2025-06-04,C0127,North,Home,Kettle,5,32.32,0.0,UPI
+10369,2025-11-09,C0167,East,Electronics,Smartwatch,500,152.89,0.2,Cash
+10871,2025-03-26,C0159,East,Clothing,T-Shirt,5,13.89,0.0,Cash
+10842,2025-02-21,C0277,South,Grocery,Coffee,2,9.33,0.05,Wallet
+10898,2025-03-21,C0082,South,Grocery,Snacks Box,2,13.93,0.05,UPI
+10078,2025-02-16,C0017,West,Home,Kettle,1,29.96,0.1,Card
+10573,2025-04-10,C0240,East,Clothing,Jacket,1,98.31,,Wallet
+10637,2025-06-03,C0159,South,Grocery,Coffee,3,8.16,0.0,Card
+10607,2025-11-30,C0063,North,Electronics,Headphones,1,73.46,0.0,Wallet
+10954,2025-03-16,C0087,East,Clothing,Jeans,1,40.47,0.0,Card
+10242,2025-04-01,C0060,West,Home,Kettle,4,27.65,,Cash
+10840,2025-02-12,C0226,North,Home,Kettle,4,27.66,0.0,Cash
+10934,2025-03-15,C0031,South,Electronics,Headphones,5,72.21,0.1,Card
+10416,2025-12-05,C0094,North,Home,Kettle,2,29.81,0.05,Wallet
+10751,2025-11-26,C0181,West,Electronics,Speaker,5,58.08,0.0,UPI
+10561,2025-11-26,C0117,north,Grocery,Coffee,5,8.54,0.0,Card
+10067,2025-10-27,C0038,East,Electronics,Headphones,1,80.07,0.2,Card
+10536,2025-09-29,C0092,North,Home,Kettle,4,31.5,0.05,UPI
+10077,2025-07-22,C0266,South,Home,Cushion,2,13.01,0.1,Card
+10105,2025-05-18,C0136,South,Electronics,Headphones,5,82.15,0.2,Cash
+10496,2025-09-29,C0140,East,Electronics,Headphones,1,84.93,0.0,UPI
+10789,2025-03-12,C0293,North,Electronics,Smartwatch,2,143.99,0.0,Cash
+10638,2025-06-16,C0296,South,Electronics,Speaker,2,59.22,0.0,UPI
+10559,2025-11-17,C0177,North,Home,Cushion,2,10.95,0.1,UPI
+10769,2025-09-24,C0185,East,Clothing,Jeans,4,37.75,0.0,Card
+10690,2025-02-15,C0230,South,Home,Lamp,2,26.38,0.2,Cash
+10878,2025-09-05,C0163,East,Clothing,Jacket,4,82.04,0.0,UPI
+10986,2025-11-01,C0158,West,Electronics,Headphones,3,72.29,0.05,Card
+10880,2025-01-28,C0202,West,Home,Kettle,5,27.39,0.1,UPI
+10735,2025-05-04,C0083,West,Clothing,Jacket,5,92.8,0.2,UPI
+10935,2025-03-19,C0021,North,Home,Kettle,1,32.14,0.05,Card
+10490,2025-11-27,C0044,North,Grocery,Coffee,1,9.41,0.0,Card
+10446,2025-12-14,C0093,West,Home,Cushion,1,11.72,0.0,UPI
+10853,2025-09-07,C0088,East,Home,Cushion,1,13.13,0.0,Card
+10605,2025-04-16,C0011,South,Home,Kettle,2,29.98,0.05,UPI
+10363,2025-07-11,C0250,West,Grocery,Snacks Box,1,12.74,0.05,UPI
+10069,2025-12-02,C0185,East,Home,Lamp,3,22.71,0.0,Card
+10548,2025-12-25,C0097,West,Electronics,Speaker,5,56.21,0.0,Cash
+10160,2025-09-21,C0220,North,Grocery,Coffee,4,9.3,0.2,Card
+10011,2025-01-24,C0257,North,Electronics,Speaker,5,56.81,0.0,UPI
+10144,2025-12-05,C0219,North,Home,Kettle,1,27.72,0.0,Card
+10517,2025-08-28,C0104,South,Home,Lamp,4,25.43,0.0,UPI
+10427,2025-04-15,C0195,North,Grocery,Snacks Box,3,14.04,0.0,Card
+10639,2025-12-08,C0175,North,Clothing,Jacket,4,81.11,0.0,Card
+10176,2025-10-28,C0215,south,Grocery,Snacks Box,5,13.5,0.0,Card
+10440,2025-05-08,C0158,South,Grocery,Snacks Box,1,14.07,0.2,UPI
+10521,2025-04-18,C0284,North,Home,Kettle,2,29.64,0.1,Wallet
+10881,2025-04-30,C0097,North,Grocery,Olive Oil,3,11.89,0.2,UPI
+10953,2025-03-01,C0125,South,Clothing,T-Shirt,5,15.86,0.2,UPI
+10688,2025-07-19,C0034,South,Electronics,Smartwatch,4,136.21,0.2,Cash
+10231,2025-11-14,C0112,South,Home,Kettle,1,29.55,0.1,UPI
+10210,2025-02-26,C0173,South,Grocery,Snacks Box,1,13.2,0.0,Wallet
+10640,2025-11-26,C0095,East,Home,Cushion,2,11.47,0.0,Card
+10143,2025-06-12,C0089,East,Home,Kettle,1,29.23,0.1,Card
+10753,2025-07-23,C0145,,Clothing,T-Shirt,4,14.16,0.1,UPI
+10519,2025-01-05,C0153,West,Grocery,Snacks Box,3,13.79,0.0,Wallet
+10104,2025-02-23,C0031,North,Clothing,Jacket,2,89.94,0.0,Card
+10298,2025-01-18,C0260,South,Home,Cushion,2,11.39,0.0,Card
+10766,2025-03-31,C0196,North,Clothing,Jacket,2,97.39,0.0,Card
+10428,2025-03-28,C0229,East,Electronics,Smartwatch,4,145.54,0.1,Wallet
+10612,2025-02-05,C0179,East,Home,Cushion,3,12.36,0.0,Card
+10939,2025-12-26,C0129,North,Grocery,Olive Oil,1,12.03,0.0,UPI
+10948,2025-12-04,C0255,East,Grocery,Snacks Box,4,14.2,0.1,Card
+10008,2025-10-11,C0084,South,Grocery,Olive Oil,4,11.36,0.05,Card
+10156,2025-09-30,C0296,North,Home,Cushion,5,11.23,0.2,Cash
+10539,2025-07-19,C0216,West,Electronics,Speaker,4,60.81,0.1,Card
+10506,2025-10-17,C0219,South,Electronics,Smartwatch,3,145.58,0.0,Wallet
+10436,2025-09-18,C0149,South,Grocery,Olive Oil,2,11.31,0.05,Cash
+10266,2025-01-21,C0108,North,Grocery,Snacks Box,4,15.25,0.05,UPI
+10461,2025-02-09,C0064,West,Clothing,T-Shirt,4,16.44,0.05,Card
+10576,2025-04-11,C0259,South,Electronics,Headphones,5,83.47,0.05,Card
+10338,2025-09-24,C0114,West,Home,Cushion,1,11.42,0.0,Card
+10255,2025-03-07,C0120,east,Electronics,Smartwatch,3,136.05,0.1,Card
+10813,2025-08-11,C0034,South,Clothing,Jacket,3,95.13,0.05,Card
+10860,2025-08-23,C0173,East,Clothing,Jeans,1,42.33,0.0,Wallet
+10665,2025-08-10,C0018,North,Home,Kettle,1,28.21,0.1,Cash
+10560,2025-11-15,C0198,North,Home,Lamp,1,22.65,0.1,Card
+10208,2025-11-30,C0020,South,Electronics,Headphones,1,76.86,0.05,UPI
+10287,2025-08-01,C0280,West,Home,Cushion,2,11.29,0.0,UPI
+10001,2025-06-30,C0236,South,Grocery,Olive Oil,1,10.18,0.2,UPI
+10341,2025-05-07,C0279,South,Electronics,Smartwatch,4,163.42,0.0,UPI
+10269,2025-03-22,C0135,West,Home,Lamp,5,25.7,0.1,Card
+10265,2025-01-23,C0170,South,Electronics,Headphones,5,79.93,0.2,Card
+10997,2025-10-23,C0140,  West ,Clothing,T-Shirt,4,16.11,0.2,Card
+10830,2025-05-11,C0113,North,Home,Cushion,4,11.55,0.05,Card
+10095,2025-11-06,C0038,South,Home,Lamp,5,22.7,0.2,UPI
+10981,2025-07-05,C0263,East,Electronics,Speaker,1,57.5,0.2,UPI
+10042,2025-06-08,C0249,South,Clothing,Jeans,2,41.45,,Cash
+10812,2025-12-21,C0099,West,Home,Lamp,2,26.16,0.0,Card
+10971,2025-10-05,C0286,South,Electronics,Headphones,1,74.44,0.05,UPI
+10843,2025-05-21,C0008,South,Home,Kettle,1,27.0,0.2,Wallet
+10628,2025-08-05,C0265,South,Clothing,Jacket,5,86.57,0.0,Card
+10045,2025-12-07,C0030,,Electronics,Speaker,2,64.12,0.1,Cash
+10161,2025-04-10,C0234,East,Clothing,T-Shirt,1,16.08,0.0,Card
+10727,2025-09-01,C0242,South,Electronics,Speaker,1,57.11,0.0,Wallet
+10629,2025-11-02,C0054,West,Home,Kettle,3,27.61,0.0,Card
+10288,2025-12-08,C0175,North,Electronics,Speaker,4,65.82,0.0,UPI
+10589,2025-09-07,C0188,South,Clothing,Jeans,3,39.81,0.0,Card
+10810,2025-11-29,C0039,South,Clothing,T-Shirt,5,14.48,0.0,Cash
+10965,2025-10-20,C0008,North,Electronics,Speaker,4,54.42,0.05,UPI
+10575,2025-03-26,C0239,North,Clothing,Jacket,1,88.94,0.2,UPI
+10315,2025-12-28,C0045,North,Clothing,Jeans,1,38.69,0.0,Cash
+10901,2025-04-12,C0155,East,Grocery,Snacks Box,3,14.15,0.0,UPI
+10230,2025-09-11,C0091,East,Clothing,Jeans,2,42.85,0.1,Wallet
+10809,2025-08-23,C0059,North,Clothing,Jeans,5,41.21,0.2,Card
+10698,2025-05-28,C0277,North,Clothing,Jacket,1,83.55,0.0,UPI
+10836,2025-11-19,C0144,West,Clothing,Jacket,2,82.65,0.1,Card
+10711,2025-02-13,C0192,East,Electronics,Speaker,2,64.8,0.2,Card
+10076,2025-06-23,C0159,South,Electronics,Speaker,4,60.59,0.2,UPI
+10633,2025-11-28,C0081,South,Home,Lamp,3,25.45,0.0,Wallet
+10987,2025-12-01,C0135,east,Home,Lamp,1,23.51,0.0,UPI
+10247,2025-06-22,C0290,South,Electronics,Smartwatch,4,142.94,0.0,Cash
+10819,2025-08-30,C0044,West,Grocery,Snacks Box,4,13.01,0.0,Card
+10989,2025-06-27,C0041,North,Clothing,Jacket,3,88.4,0.2,UPI
+10476,2025-02-03,C0097,North,Electronics,Smartwatch,2,136.42,0.0,Wallet
+10670,2025-05-07,C0210,East,Electronics,Speaker,3,65.43,0.1,UPI
+10085,2025-04-04,C0273,North,Electronics,Headphones,1,72.71,0.0,UPI
+10469,2025-02-09,C0075,East,Home,Kettle,1,32.32,0.1,UPI
+10225,2025-09-28,C0097,South,Home,Cushion,5,12.37,0.0,UPI
+10774,2025-07-30,C0093,North,Grocery,Olive Oil,4,10.0,0.0,Card
+10331,2025-08-30,C0232,West,Home,Kettle,2,31.8,0.0,Card
+10233,2025-12-20,C0082,North,Home,Kettle,2,27.66,0.0,Card
+10588,2025-10-18,C0111,north,Electronics,Smartwatch,3,135.93,0.0,Wallet
+10475,2025-11-30,C0165,west,Electronics,Speaker,1,65.03,0.2,Wallet
+10902,2025-05-14,C0112,East,Home,Kettle,5,31.04,0.0,Card
+10882,2025-12-20,C0273,East,Grocery,Olive Oil,4,10.24,0.0,Card
+10599,2025-05-05,C0278,South,Home,Kettle,5,30.72,0.0,Card
+10421,2025-08-20,C0159,North,Clothing,T-Shirt,2,15.62,0.2,Card
+10687,2025-12-29,C0050,North,Electronics,Smartwatch,1,154.76,0.2,Card
+10182,2025-11-17,C0019,West,Clothing,T-Shirt,2,14.03,,UPI
+10617,2025-01-18,C0052,East,Home,Kettle,2,32.58,0.05,Card
+10332,2025-06-30,C0139,South,Grocery,Snacks Box,2,12.72,0.2,Cash
+10438,2025-06-01,C0187,South,Home,Lamp,2,26.34,0.0,Card
+10049,2025-07-13,C0285,South,Home,Kettle,3,32.5,,Cash
+10889,2025-12-30,C0027,,Home,Kettle,1,32.97,0.2,Card
+10005,2025-03-18,C0112,North,Grocery,Olive Oil,4,10.93,0.0,Card
+10529,2025-03-17,C0179,North,Clothing,Jeans,5,38.11,0.0,Cash
+10234,2025-11-01,C0051,North,Clothing,Jeans,4,43.06,0.1,UPI
+10486,2025-12-23,C0284,East,Clothing,T-Shirt,1,16.45,,UPI
+10916,2025-08-08,C0026,East,Home,Cushion,1,12.34,0.0,Card
+10497,2025-02-10,C0034,North,Clothing,T-Shirt,1,15.05,0.0,Wallet
+10910,2025-11-06,C0239,North,Home,Cushion,5,12.72,,Card
+10106,2025-12-06,C0116,  South ,Home,Cushion,2,11.48,0.2,UPI
+10443,2025-08-09,C0049,South,Home,Lamp,3,22.97,0.05,Card
+10488,2025-09-30,C0103,West,Electronics,Speaker,1,65.82,0.1,Card
+10646,2025-11-13,C0255,East,Grocery,Coffee,1,8.47,0.0,Cash
+10012,2025-09-24,C0123,West,Electronics,Smartwatch,3,158.52,0.0,Card
+10738,2025-11-01,C0171,North,Clothing,Jeans,3,42.74,0.0,UPI
+10726,2025-08-07,C0224,East,Clothing,T-Shirt,2,14.84,0.1,Card
+10190,2025-06-19,C0157,North,Grocery,Coffee,1,8.47,0.05,Card
+10959,2025-06-18,C0106,East,Grocery,Snacks Box,1,12.81,0.2,UPI
+10832,2025-04-18,C0033,South,Grocery,Coffee,4,9.57,0.05,UPI
+10282,2025-02-08,C0177,South,Home,Lamp,1,23.58,0.0,UPI
+10029,2025-04-07,C0079,North,Electronics,Smartwatch,1,163.1,0.1,Card
+10169,2025-05-15,C0051,East,Grocery,Snacks Box,1,12.62,0.2,Card
+10180,2025-04-14,C0099,  South ,Clothing,Jeans,4,41.9,0.05,UPI
+10100,2025-09-27,C0077,West,Grocery,Snacks Box,2,15.11,0.05,Cash
+10197,2025-09-12,C0123,West,Home,Kettle,5,29.59,0.2,Card
+10495,2025-04-21,C0085,West,Clothing,Jacket,1,86.95,,UPI
+10721,2025-10-20,C0136,South,Clothing,T-Shirt,4,16.07,0.0,UPI
+10647,2025-06-30,C0058,North,Home,Lamp,4,22.81,0.1,Card
+10992,2025-04-29,C0017,South,Electronics,Speaker,2,63.13,0.0,UPI
+10946,2025-10-17,C0060,North,Grocery,Olive Oil,2,11.67,0.2,Card
+10710,2025-08-09,C0167,South,Home,Lamp,3,23.18,0.0,Wallet
+10373,2025-10-05,C0218,East,Electronics,Speaker,2,54.82,0.1,Cash
+10678,2025-03-07,C0148,North,Clothing,Jeans,2,43.0,0.1,Card
+10897,2025-09-20,C0090,South,Grocery,Olive Oil,2,10.63,0.0,Cash
+10648,2025-08-16,C0026,East,Electronics,Smartwatch,1,-10.0,0.0,Wallet
+10797,2025-09-28,C0116,North,Home,Cushion,1,10.81,0.2,Card
+10847,2025-11-08,C0051,East,Grocery,Coffee,3,8.82,0.0,UPI
+10460,2025-05-05,C0275,East,Home,Kettle,3,31.93,0.0,UPI
+10413,2025-09-27,C0222,North,Home,Kettle,3,28.43,0.05,Wallet
+10131,2025-03-27,C0258,South,Electronics,Speaker,5,64.95,0.1,Cash
+10039,2025-11-15,C0071,North,Clothing,T-Shirt,5,15.74,0.0,UPI
+10434,2025-12-20,C0293,East,Home,Kettle,5,27.32,0.0,Card
+10215,2025-06-28,C0171,North,Home,Kettle,1,29.38,0.2,Card
+10555,2025-09-21,C0060,South,Electronics,Smartwatch,3,141.77,0.05,Cash
+10566,2025-03-10,C0298,South,Grocery,Coffee,3,9.43,0.0,Card
+10762,2025-04-06,C0130,North,Grocery,Olive Oil,5,10.4,0.0,UPI
+10474,2025-11-07,C0246,South,Electronics,Headphones,4,82.55,0.2,UPI
+10456,2025-05-09,C0252,East,Electronics,Headphones,2,80.69,0.2,UPI
+10811,2025-06-03,C0248,East,Grocery,Snacks Box,5,15.01,0.05,UPI
+10260,2025-04-10,C0233,East,Grocery,Olive Oil,4,11.91,0.0,Card
+10816,2025-12-31,C0176,North,Electronics,Headphones,2,82.12,0.2,UPI
+10035,2025-02-26,C0191,South,Electronics,Headphones,1,73.69,,UPI
+10827,2025-03-28,C0077,West,Home,Lamp,2,26.11,0.0,UPI
+10309,2025-04-26,C0207,North,Electronics,Headphones,2,72.76,0.0,UPI
+10276,2025-08-17,C0075,East,Home,Kettle,2,28.77,0.0,UPI
+10636,2025-07-22,C0024,East,Electronics,Smartwatch,5,135.61,0.0,Card
+10654,2025-08-02,C0005,,Clothing,T-Shirt,5,14.06,0.2,UPI
+10622,2025-04-15,C0199,North,Home,Kettle,2,29.88,0.0,UPI
+10835,2025-05-24,C0279,South,Grocery,Snacks Box,5,14.28,0.05,UPI
+10844,2025-06-15,C0189,South,Grocery,Olive Oil,4,10.21,0.2,Card
+10393,2025-04-16,C0208,South,Grocery,Snacks Box,5,12.67,0.0,UPI
+10955,2025-01-13,C0010,East,Clothing,Jacket,2,96.23,0.0,UPI
+10107,2025-09-20,C0223,North,Grocery,Olive Oil,5,11.2,0.0,Card
+10962,2025-12-11,C0297,North,Clothing,Jeans,4,43.3,0.2,Card
+10524,2025-07-23,C0218,East,Clothing,Jeans,1,38.01,0.2,UPI
+10784,2025-11-18,C0293,East,Electronics,Speaker,5,61.72,0.1,Card
+10047,2025-04-18,C0116,North,Grocery,Olive Oil,3,11.31,0.0,UPI
+10203,2025-01-03,C0149,East,Home,Lamp,5,24.83,0.0,Cash
+10942,2025-05-08,C0153,north,Electronics,Smartwatch,2,136.99,0.2,Card
+10631,2025-12-08,C0168,North,Clothing,Jeans,5,38.45,0.1,UPI
+10021,2025-02-03,C0145,South,Electronics,Smartwatch,4,158.48,0.0,Wallet
+10402,2025-07-18,C0090,West,Clothing,Jacket,1,85.88,0.05,Wallet
+10083,2025-11-21,C0297,West,Electronics,Speaker,4,60.67,0.0,UPI
+10130,2025-10-02,C0141,West,Grocery,Olive Oil,1,10.77,0.0,Card
+10415,2025-10-04,C0118,South,Grocery,Olive Oil,1,11.82,0.0,Cash
+10452,2025-12-28,C0251,West,Grocery,Coffee,2,8.12,,Card
+10841,2025-02-08,C0043,East,Grocery,Snacks Box,4,14.05,0.0,Wallet
+10741,2025-08-10,C0151,East,Electronics,Speaker,3,60.49,0.0,UPI
+10697,2025-07-13,C0096,South,Home,Cushion,1,12.37,0.0,UPI
+10286,2025-12-30,C0003,South,Home,Lamp,5,25.41,0.0,Cash
+10123,2025-12-04,C0222,East,Home,Lamp,2,24.09,0.0,Card
+10033,2025-02-19,C0222,West,Grocery,Coffee,1,8.34,,Card
+10994,2025-04-18,C0013,West,Electronics,Speaker,3,62.58,0.0,UPI
+10516,2025-08-14,C0281,East,Electronics,Smartwatch,3,145.69,0.0,Card
+10923,2025-08-17,C0137,North,Grocery,Snacks Box,3,12.93,,UPI
+10019,2025-05-13,C0013,North,Electronics,Speaker,4,59.93,0.0,UPI
+10943,2025-10-19,C0087,North,Home,Lamp,2,25.71,0.0,Card
+10219,2025-02-06,C0109,North,Clothing,T-Shirt,3,14.67,0.1,UPI
+10891,2025-11-04,C0040,East,Grocery,Snacks Box,4,12.92,0.05,Wallet
+10702,2025-09-23,C0295,North,Grocery,Olive Oil,4,10.25,0.05,UPI
+10481,2025-12-17,C0039,South,Electronics,Headphones,2,83.02,0.2,Card
+10931,2025-01-12,C0255,North,Clothing,T-Shirt,5,14.18,0.0,UPI
+10356,2025-03-12,C0031,South,Grocery,Snacks Box,4,13.4,0.05,Card
+10661,2025-10-04,C0177,South,Clothing,T-Shirt,2,15.1,,Wallet
+10224,2025-12-18,C0255,East,Clothing,T-Shirt,2,14.81,0.0,Card
+10759,2025-05-27,C0190,East,Grocery,Snacks Box,5,13.03,0.05,Card
+10092,2025-07-11,C0296,West,Home,Kettle,4,30.72,0.05,Wallet
+10151,2025-03-03,C0223,West,Grocery,Olive Oil,4,10.93,0.0,Card
+10818,2025-05-12,C0149,East,Electronics,Speaker,1,58.88,0.2,Card
+10317,2025-02-06,C0080,South,Electronics,Speaker,1,60.05,0.2,UPI
+10448,2025-07-03,C0100,North,Home,Cushion,1,12.42,0.0,Card
+10803,2025-02-09,C0031,North,Clothing,Jeans,3,40.49,0.0,UPI
+10745,2025-05-02,C0129,North,Clothing,Jacket,1,88.11,0.05,Card
+10522,2025-12-13,C0256,North,Home,Lamp,1,26.2,0.0,UPI
+10279,2025-11-01,C0249,South,Home,Kettle,3,30.27,0.0,UPI
+10583,2025-01-10,C0067,North,Clothing,T-Shirt,1,14.47,0.05,UPI
+10764,2025-01-13,C0186,East,Electronics,Smartwatch,4,144.55,0.1,Card
+10604,2025-02-25,C0029,South,Electronics,Smartwatch,5,159.86,0.1,UPI
+10507,2025-07-12,C0227,North,Clothing,Jeans,1,39.98,0.2,Card
+10349,2025-09-03,C0261,East,Home,Kettle,3,30.77,0.2,Cash
+10927,2025-12-12,C0046,,Grocery,Olive Oil,3,10.16,0.0,UPI
+10374,2025-05-10,C0277,West,Grocery,Olive Oil,4,11.19,0.0,UPI
+10400,2025-07-03,C0212,North,Clothing,Jeans,4,41.34,0.0,UPI
+10704,2025-07-16,C0178,  East ,Clothing,Jacket,1,82.42,0.05,Cash
+10257,2025-02-21,C0186,,Grocery,Coffee,1,9.47,0.2,UPI
+10944,2025-03-15,C0049,North,Clothing,Jacket,3,84.43,0.1,Card
+10851,2025-11-21,C0156,East,Clothing,Jacket,3,87.24,0.0,UPI
+10072,2025-06-12,C0275,North,Electronics,Headphones,3,80.13,0.2,Card
+10195,2025-12-24,C0150,,Electronics,Headphones,5,79.9,0.0,UPI
+10483,2025-12-30,C0092,North,Grocery,Coffee,2,8.41,0.1,UPI
+10855,2025-12-14,C0202,South,Clothing,Jeans,4,37.19,0.0,Card
+10137,2025-02-09,C0287,East,Home,Lamp,3,23.72,0.2,Card
+10494,2025-08-26,C0203,East,Electronics,Speaker,1,63.49,0.0,Card
+10772,2025-12-11,C0112,West,Clothing,Jeans,5,39.5,0.0,UPI
+10550,2025-04-14,C0219,North,Home,Cushion,4,12.77,0.0,Cash
+10462,2025-11-05,C0198,North,Clothing,Jacket,3,82.52,0.0,Cash
+10201,2025-12-18,C0201,South,Grocery,Coffee,1,8.19,0.2,UPI
+10312,2025-01-09,C0190,South,Grocery,Snacks Box,3,14.26,0.2,Card
+10290,2025-03-17,C0160,South,Clothing,T-Shirt,5,13.88,0.0,Cash
+10960,2025-01-15,C0051,North,Grocery,Snacks Box,4,13.1,0.05,Wallet
+10189,2025-08-24,C0018,North,Clothing,Jeans,2,37.72,0.1,Card
+10763,2025-07-15,C0048,North,Clothing,T-Shirt,2,13.98,0.0,Card
+10112,2025-05-06,C0015,North,Grocery,Snacks Box,1,14.05,0.05,Card
+10949,2025-06-20,C0210,south,Clothing,T-Shirt,4,16.44,0.0,UPI
+10183,2025-11-30,C0135,West,Electronics,Headphones,5,78.29,0.2,Card
+10152,2025-09-08,C0017,East,Grocery,Snacks Box,4,14.82,,Wallet
+10824,2025-05-27,C0087,East,Home,Cushion,5,11.8,0.0,Card
+10325,2025-12-13,C0184,North,Home,Cushion,2,10.83,0.0,Card
+10703,2025-03-07,C0092,South,Home,Cushion,3,12.9,0.2,Card
+10044,2025-07-30,C0269,West,Clothing,T-Shirt,1,14.62,0.0,Wallet
+10444,2025-02-13,C0213,North,Clothing,T-Shirt,1,16.32,0.2,UPI
+10787,2025-01-22,C0181,South,Electronics,Headphones,4,84.27,0.05,Card
+10006,2025-11-20,C0189,South,Home,Kettle,4,29.62,0.1,Cash
+10250,2025-03-17,C0052,South,Clothing,Jacket,1,87.69,0.0,Cash
+10823,2025-09-22,C0274,East,Home,Cushion,4,12.61,0.2,Wallet
+10075,2025-10-09,C0172,East,Clothing,T-Shirt,3,15.2,0.05,Card
+10512,2025-12-17,C0145,North,Grocery,Snacks Box,2,13.22,,Card
+10940,2025-04-15,C0061,  South ,Home,Lamp,5,24.41,0.0,Card
+10391,2025-07-31,C0102,South,Home,Cushion,1,11.4,0.2,Card
+10895,2025-10-07,C0106,West,Clothing,Jeans,3,39.28,0.1,Card
+10432,2025-01-19,C0061,east,Grocery,Coffee,5,8.4,0.0,Card
+10068,2025-04-19,C0030,West,Grocery,Olive Oil,4,10.32,0.1,Card
+10998,2025-12-29,C0110,East,Electronics,Smartwatch,2,135.62,0.0,Card
+10167,2025-07-13,C0230,South,Grocery,Olive Oil,4,11.58,,UPI
+10904,2025-10-14,C0295,South,Home,Cushion,2,11.22,0.0,Cash
+10730,2025-09-05,C0119,North,Electronics,Headphones,5,79.09,0.2,UPI
+10554,2025-03-30,C0133,North,Clothing,T-Shirt,5,15.0,0.05,Card
+10366,2025-04-06,C0132,North,Clothing,Jacket,1,96.26,0.0,Cash
+10345,2025-03-21,C0077,North,Electronics,Smartwatch,2,146.58,0.05,Card
+10584,2025-06-16,C0005,North,Home,Cushion,2,12.67,0.0,Card
+10535,2025-06-27,C0280,East,Grocery,Coffee,1,9.12,0.2,UPI
+10398,2025-06-11,C0257,West,Electronics,Headphones,4,79.22,0.1,Card
+10185,2025-01-20,C0214,East,Home,Cushion,2,10.86,0.0,Card
+10348,2025-08-14,C0010,East,Grocery,Snacks Box,1,12.86,0.0,UPI
+10615,2025-10-15,C0102,South,Electronics,Speaker,5,56.16,0.2,Card
+10919,2025-10-31,C0291,South,Home,Lamp,5,23.61,0.0,UPI
+10211,2025-12-25,C0122,North,Electronics,Headphones,3,84.94,0.05,Cash
+10579,2025-07-25,C0018,South,Electronics,Speaker,2,-10.0,0.05,UPI
+10502,2025-04-02,C0150,East,Electronics,Smartwatch,1,145.16,0.0,Card
+10537,2025-09-02,C0001,North,Clothing,Jacket,3,96.41,0.1,UPI
+10196,2025-03-19,C0295,West,Clothing,T-Shirt,1,14.46,0.0,Card
+10175,2025-05-22,C0016,East,Clothing,T-Shirt,4,15.52,0.1,Cash
